@@ -1,0 +1,29 @@
+body{
+    margin: 30px;
+    font-size: 18px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.column-content{
+    text-align: right;
+    margin-right: 80px;
+}
+.address-content{
+    margin-top: 80px;
+}
+.body-content{
+    margin-top: 80px;
+}
+.end-content{
+    margin-top: 50px;
+}
+.end-body{
+    margin-top: 40px;
+}
